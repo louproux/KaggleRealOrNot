@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e530eea8-1d97-445e-8bf2-a2c41a2c7c85" name="Default Changelist" comment="" />
+    <list default="true" id="e530eea8-1d97-445e-8bf2-a2c41a2c7c85" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1VfE8j70GJ0hq3d0kQmHmeOfbZH" />
   <component name="ProjectViewState">
@@ -15,7 +22,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="E:/Kaggle/TweetDisaster/sample_submission.csv" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -35,6 +44,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -72,18 +82,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577635592070</updated>
+      <workItem from="1577641522721" duration="75000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="88" width="1089" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577636657106">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="223" y="88" width="1089" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864/-1920.0.1920.1080@0.0.1536.864" timestamp="1577636657106" />
-    <state x="549" y="188" key="FileChooserDialogImpl" timestamp="1577639188291">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="686" y="226" key="FileChooserDialogImpl" timestamp="1577641556906">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="549" y="188" key="FileChooserDialogImpl/0.0.1536.864/-1920.0.1920.1080@0.0.1536.864" timestamp="1577639188291" />
+    <state x="686" y="226" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577641556906" />
     <state width="1515" height="223" key="GridCell.Tab.0.bottom" timestamp="1577639576519">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
